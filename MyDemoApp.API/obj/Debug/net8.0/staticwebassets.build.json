@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qGlimoraOGwo7nNTMhPr6wIN/JcJjmdBdmyE9NLiQKo=",
+  "Source": "MyDemoApp.API",
+  "BasePath": "_content/MyDemoApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
